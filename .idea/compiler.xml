@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="medcase" />
+        <module name="Medcase" />
+        <module name="Securitize" />
       </profile>
     </annotationProcessing>
   </component>
